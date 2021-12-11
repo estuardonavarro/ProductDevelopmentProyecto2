@@ -1,0 +1,8 @@
+structlog
+streamlit
+numpy
+pandas
+mysql-connector-python
+leafmap
+geopandas
+plotly
